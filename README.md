@@ -1,7 +1,7 @@
-## ⤳ 💻 Moti Dev
+## ⤳ 💻 Zowii Dev
 <p align="center" width="300">
    <img align="center" width="200" src="https://cdn.discordapp.com/attachments/884008599242825750/914489885526728725/circulo_dc.png" />
-   <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
+   <h3 align="center">¡Hello 👋! I'm Zowii 👨🏻‍💻</h3>
 </p>
 
 <div align="center" width="300">
@@ -73,8 +73,8 @@ Currently I develop software for different languages. Now I'm Founder and Develo
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Motidev)
  <div>
   <a href="https://github.com/pok3dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Motidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motidev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zowiidev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zowiidev&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
