@@ -1,6 +1,6 @@
 ## ⤳ 💻 Zowii Dev
 <p align="center" width="300">
-   <img align="center" src="https://cdn.discordapp.com/attachments/883858254592114688/927686367960502302/BANNERMOTI.png" />
+   <img align="center" witdh="200" src="https://cdn.discordapp.com/attachments/883853084088999986/927686605261647882/circulo_dc.png" />
    <h3 align="center">¡Hello 👋! I'm Zowii 👨🏻‍💻</h3>
 </p>
 
