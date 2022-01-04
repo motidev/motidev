@@ -1,6 +1,6 @@
-## ⤳ 💻 Zowii Dev
+## ⤳ 💻 Moti
 <p align="center" width="300">
-   <img align="center" src="https://cdn.discordapp.com/attachments/883853084088999986/927686605261647882/circulo_dc.png" />
+   <img align="center" src="https://cdn.discordapp.com/attachments/883853084088999986/927930229962473572/bannermoti.png" />
    <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
 </p>
 
