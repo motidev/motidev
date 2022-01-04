@@ -4,7 +4,6 @@
    <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reconlx)
 
 <div align="center" width="300">
 
