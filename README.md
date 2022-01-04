@@ -58,6 +58,10 @@ Currently I develop software for different languages. Now I'm Founder and Develo
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
  
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+   
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" />
+   
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 
 
 </div>
