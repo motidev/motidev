@@ -1,4 +1,4 @@
-## ⤳ 💻 Moti
+## Moti
 <p align="center" width="300">
    <img align="center" src="https://cdn.discordapp.com/attachments/883853084088999986/927930229962473572/bannermoti.png" />
    <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
@@ -24,19 +24,7 @@ Currently I develop software for different languages. Now I'm Founder and Develo
 <br>
 
 
-## ⤳ :pencil: Skills
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code> 
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3</code> 
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML5</code> 
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node Js</code> 
-
-<code><img height="10" src="https://rodanava.neocities.org/proyectofinal/imagenes/java.jpg"> Java</code>
-
-<code><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> Python</code> 
+## Languages and Tools:
 
 
 
