@@ -1,6 +1,6 @@
 ## Deextter
 <p align="center" width="300">
-   <img align="center" src="https://imgur.com/a/k9VvPjD" />
+   <img align="center" src="https://imgur.com/AHLlhKg" />
    <h3 align="center">¡Hello 👋! I'm Deextter 👨🏻‍💻</h3>
 </p>
 
