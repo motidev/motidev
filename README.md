@@ -1,6 +1,6 @@
 ## Deextter
 <p align="center" width="300">
-   <img align="center" src="https://ibb.co/hxG2M0f" />
+   <img align="center" src="https://discord.com/channels/818561783014490183/884008599242825750/937059255134064701" />
    <h3 align="center">¡Hello 👋! I'm Deextter 👨🏻‍💻</h3>
 </p>
 
