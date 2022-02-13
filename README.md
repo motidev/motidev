@@ -1,6 +1,6 @@
-## Deextter
+## Moti
 <p align="center" width="300">
-   <h3 align="center">¡Hello 👋! I'm Deextter 👨🏻‍💻</h3>
+   <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
 </p>
 
 
@@ -62,11 +62,11 @@ Currently I develop software for different languages. Now I'm Founder and Develo
 
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Deextter)
+![Profile View Counter](https://komarev.com/ghpvc/?username=motiiii)
  <div>
   <a href="https://github.com/Deextter">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Deextter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deextter&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=motiiii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
