@@ -19,7 +19,7 @@
 <br>
 
 I started in the world of software development when I was only 13 years old creating my own Minecraft server to play with my friends. 
-Currently I develop software for different languages. Now I'm Founder and Developer of Discord Bot the name is Kimura
+Currently I develop software for different languages.
 
 <br>
 
