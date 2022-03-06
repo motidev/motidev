@@ -67,6 +67,7 @@ I started in the world of software development when I was only 13 years old crea
   <a href="https://github.com/Deextter">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=motiiii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&langs_count=7&theme=dark"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  
