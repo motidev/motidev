@@ -15,13 +15,6 @@
  <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> I love Linux</code> 
  
 </div>
-<br>
-
-I started in the world of software development when I was only 13 years old creating my own Minecraft server to play with my friends. 
-
-
-<br>
-
 
 ## Languages and Tools:
 
@@ -54,20 +47,8 @@ I started in the world of software development when I was only 13 years old crea
 </div>
 
 
-<br />
-
-<br>
 
 
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=motiiii)
- <div>
-  <a href="https://github.com/motiiii">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=motiiii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
- 
-</div>
 
