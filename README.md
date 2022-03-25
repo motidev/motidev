@@ -1,7 +1,7 @@
 ## Moti
-<p align="center" width="300">
-   <h3 align="center">¡Hello 👋! I'm Moti 👨🏻‍💻</h3>
-</p>
+<div align="center">
+<h2> Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> soy Moti</h2>
+</div>
 
 
 <div align="center" width="300">
