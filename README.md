@@ -14,10 +14,6 @@
  👯 Actualmente estoy desarrollando mi bot de discord multifuncional.
 </div>
 
-## Mis estadísticas de Github
-![motiiii stats](https://github-readme-stats.vercel.app/api?username=motiiii&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&theme=gotham)
-
-
 ## Languages and Tools:
 <div style="display: flex; justify-content: space-around;">
 
@@ -41,6 +37,6 @@
 
 </div>
 
-
-
+## Mis estadísticas de Github
+![motiiii stats](https://github-readme-stats.vercel.app/api?username=motiiii&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&theme=gotham)
 
