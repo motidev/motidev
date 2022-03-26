@@ -40,3 +40,5 @@
 ## Github Stats
 ![motiiii stats](https://github-readme-stats.vercel.app/api?username=motiiii&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&theme=gotham)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/802519915851546645
+                            )](https://discord.com/users/802519915851546645)
