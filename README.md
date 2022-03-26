@@ -16,7 +16,7 @@
  
  <div align="center">
   <a href="https://discord.com/users/802519915851546645">
-    <img src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" align="left" height="205">
+    <img src="https://lanyard-profile-readme.vercel.app/api/802519915851546645?animated=true" align="left" height="205">
   </a>
 </div>
 
