@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> soy Moti</h2>
+<h2> Hello <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Moti</h2>
 </div>
 
 <div align="center" width="300">
