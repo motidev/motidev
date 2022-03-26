@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="300">
- I'm a `FrontEnd` and `BackEnd` developer.
+ I'm a  <code>FrontEnd</code> and  <code>BackEnd</code> developer.
  <br>
  Love playing videogames
  <br>
