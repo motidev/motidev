@@ -37,6 +37,6 @@
 
 </div>
 
-## Mis estadísticas de Github
+## Github Stats
 ![motiiii stats](https://github-readme-stats.vercel.app/api?username=motiiii&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&theme=gotham)
 
