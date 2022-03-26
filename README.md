@@ -2,10 +2,7 @@
 <h2> Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> soy Moti</h2>
 </div>
 
-
 <div align="center" width="300">
-
-
  I'm a `FrontEnd` and `BackEnd` developer.
  <br>
  Love playing videogames
@@ -13,13 +10,9 @@
  Coffeeholic
  <br>
  <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> I love Linux</code> 
- 
+ <br>
+ 👯 Actualmente estoy desarrollando mi bot de discord multifuncional.
 </div>
-
-
-
-👯 Actualmente estoy desarrollando mi bot de discord multifuncional.
-
 
 ## Mis estadísticas de Github
 ![motiiii stats](https://github-readme-stats.vercel.app/api?username=motiiii&hide=issues&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&layout=compact&theme=gotham)
@@ -39,13 +32,14 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
  
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
    
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" />
    
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 
 </div>
-
 
 
 
