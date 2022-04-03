@@ -1,13 +1,8 @@
-<div align="center">
-<h2> Hello <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Moti</h2>
-</div>
+# ![https://github.com/motiiii](https://cdn.discordapp.com/attachments/959145627088986205/960159807128625162/moti.png) Hello, my name is Moti
+### Full-stack Developer
 
-<div align="center" width="300">
- I'm a <code>BackEnd</code> developer.
- <br>
- Coffeeholic
-</div>
- 
+
+## Skills:
 
 
 ## Github Stats
