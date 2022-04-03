@@ -1,14 +1,12 @@
 # ![https://github.com/motiiii](https://cdn.discordapp.com/attachments/959145627088986205/960160590947565658/icon.png) Hello, my name is Moti
 
-
 ## About me: 
-I'm Moti, An developer from somewhere in the earth. I like to code applications and games. I have worked on many projects in my past.
+I'm **Moti**, An developer from somewhere in the earth. I like to code applications and games. I have worked on many projects in my past.
 
 Thanks for visiting my github profile. Have a great day ahead!
 
-
 ## Networks:
-[![Twitter Follow](https://img.shields.io/twitter/follow/motiiii?style=social)](https://twitter.com/mootii_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mootii_?style=social)](https://twitter.com/mootii_)
 ![GitHub followers](https://img.shields.io/github/followers/motiiii?logo=Github&style=social)
 
 ## Skills:
