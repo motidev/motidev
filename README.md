@@ -2,9 +2,3 @@
 
 
 ## About me: 
-## Networks:
-[![Twitter Follow](https://img.shields.io/twitter/follow/mootii_?style=social)](https://twitter.com/mootii_)
-![GitHub followers](https://img.shields.io/github/followers/motiiii?style=social)
-
-
-
