@@ -2,6 +2,10 @@
 
 
 ## About me: 
+## Networks:
+[![Twitter Follow](https://img.shields.io/twitter/follow/motiiii?style=social)](https://twitter.com/motiiii)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/motiiii?sub_confirmation=1)
+![GitHub followers](https://img.shields.io/github/followers/motiiii?style=social)
 
 
 
