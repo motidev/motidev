@@ -9,7 +9,21 @@ Thanks for visiting my github profile. Have a great day ahead!
 ![GitHub followers](https://img.shields.io/github/followers/motiiii?logo=Github&style=social)
 
 ## Skills: 
-<a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ <p align="left">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
+   </p>
+
+## Tools
+   <p align="left">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
+      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
+   </p>
 
 ## Github Stats: 
 [![Stats](https://github-readme-stats.vercel.app/api?username=motiiii&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motiiii)
@@ -17,4 +31,7 @@ Thanks for visiting my github profile. Have a great day ahead!
 
 ## Status:
 [![Discord Presence](https://lanyard.cnrad.dev/api/802519915851546645
-                            )](https://discord.com/users/802519915851546645)
+                            )](https://discord.com/users/802519915851546645)  
+   
+   
+   
