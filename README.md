@@ -14,6 +14,7 @@ Thanks for visiting my github profile. Have a great day ahead!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
+      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
    </p>
 
 ## Tools
@@ -22,7 +23,6 @@ Thanks for visiting my github profile. Have a great day ahead!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
-      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
    </p>
 
 ## Github Stats: 
@@ -32,6 +32,8 @@ Thanks for visiting my github profile. Have a great day ahead!
 ## Status:
 [![Discord Presence](https://lanyard.cnrad.dev/api/802519915851546645
                             )](https://discord.com/users/802519915851546645)  
+   
+   
    
    
    
