@@ -10,13 +10,15 @@ Thanks for visiting my github profile. Have a great day ahead!
 
 ## Skills: 
  <p align="left">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
       <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
+      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/git.png" />
+      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/mongo.png" />
    </p>
 
 ## Tools
