@@ -18,7 +18,7 @@ Thanks for visiting my github profile. Have a great day ahead!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
       <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
       <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/git.png" />
-      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/mongo.png" />
+      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/mongo.svg" />
    </p>
 
 ## Tools
