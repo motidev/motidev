@@ -1,4 +1,4 @@
-# ![https://github.com/motiiii](https://cdn.discordapp.com/attachments/959145627088986205/960160590947565658/icon.png) Hello, my name is Moti <img align="right" src="https://media.istockphoto.com/vectors/vector-realistic-illustration-of-a-haunting-forest-with-grass-under-a-vector-id843935754?k=20&m=843935754&s=170667a&w=0&h=ZTGu1-C9C_eg1VHHkp0dmFrJYrfvKAeKnV0wpJuNCUk=" width="200" style=border-radius:20px;/>
+# ![https://github.com/motiiii](https://cdn.discordapp.com/attachments/959145627088986205/960160590947565658/icon.png) Hello, my name is Moti <img align="right" src="https://media.istockphoto.com/vectors/vector-realistic-illustration-of-a-haunting-forest-with-grass-under-a-vector-id843935754?k=20&m=843935754&s=170667a&w=0&h=ZTGu1-C9C_eg1VHHkp0dmFrJYrfvKAeKnV0wpJuNCUk=" width="200" />
 
 I'm **Moti**, An developer from somewhere in the earth. I like to code applications and games. I have worked on many projects in my past. I love backend.
 
