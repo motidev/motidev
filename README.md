@@ -4,7 +4,8 @@ I'm **Moti**, An developer from somewhere in the earth. I like to code applicati
 
 Thanks for visiting my github profile. Have a great day ahead!
 
-🧑🏽‍💻 Coding for the new app: ██▒▒▒▒▒▒▒▒ 15%
+- 🧑🏽‍💻 Coding for the new app: ██▒▒▒▒▒▒▒▒  15%
+- - ⌨️ Learning new languages.
 
 ## Networks:
 [![Twitter Follow](https://img.shields.io/twitter/follow/mootii_?style=social)](https://twitter.com/mootii_)
