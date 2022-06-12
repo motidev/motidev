@@ -4,7 +4,7 @@ I'm **Moti**, An developer from somewhere in the earth. I like to code applicati
 
 Welcome to my Github profile!
 
-- 🧑🏽‍💻 Coding for the new app: ██▒▒▒▒▒▒▒▒  15%
+- 🧑🏽‍💻 Coding for the new app: ████▒▒▒▒▒▒  30%
 - ⌨️ Learning new languages.
 
 ## Networks:
