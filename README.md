@@ -1,6 +1,6 @@
-# ![https://github.com/motiiii](https://cdn.discordapp.com/attachments/959145627088986205/960160590947565658/icon.png) Hello, my name is Moti <img align="right" src="https://cdn.discordapp.com/attachments/975777323699818558/991315855969366096/d0be04222cd8acfdc6144fbbb41bc582.jpg" width="200" />
+# ![https://github.com/RekiCode](https://cdn.discordapp.com/attachments/959145627088986205/960160590947565658/icon.png) Hello, my name is Reki <img align="right" src="https://cdn.discordapp.com/attachments/975777323699818558/991315855969366096/d0be04222cd8acfdc6144fbbb41bc582.jpg" width="200" />
 
-I'm **Moti**, An developer from somewhere in the earth. I like to code applications and games. I love backend and coffe.
+I'm **Reki**, An developer from somewhere in the earth. I like to code applications and games. I love backend and coffe.
 
 Welcome to my Github profile!
 
@@ -8,8 +8,8 @@ Welcome to my Github profile!
 - ⌨️ Learning new languages.
 
 ## Networks:
-[![Twitter Follow](https://img.shields.io/twitter/follow/mootii_?style=social)](https://twitter.com/mootii_)
-![GitHub followers](https://img.shields.io/github/followers/motiiii?logo=Github&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mootii_?style=social)](https://twitter.com/r3kiii_)
+![GitHub followers](https://img.shields.io/github/followers/RekiCode?logo=Github&style=social)
 
 ## Skills: 
  <p align="left">
@@ -18,7 +18,7 @@ Welcome to my Github profile!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
-      <img src="https://raw.githubusercontent.com/motiiii/motiiii/master/typescript.svg" />
+      <img src="https://raw.githubusercontent.com/RekiCode/RekiCode/master/typescript.svg" />
    </p>
 
 ## Tools
@@ -45,12 +45,11 @@ Welcome to my Github profile!
 
 
 ## Github Stats: 
-[![Stats](https://github-readme-stats.vercel.app/api?username=motiiii&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motiiii)
-[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motiiii&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motiiii)
+[![Stats](https://github-readme-stats.vercel.app/api?username=RekiCode&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/RekiCode)
+[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=RekiCode&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/RekiCode)
 
 ## Status:
 [![Discord Presence](https://lanyard.cnrad.dev/api/802519915851546645)](https://discord.com/users/802519915851546645)
-   
    
    
    
