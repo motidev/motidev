@@ -1,4 +1,4 @@
-# ![https://github.com/RekiCode](https://cdn.discordapp.com/attachments/959145627088986205/997239424884678696/7de2c846cf3eaff5cab6526f906400ac.jpg) Hello, my name is Reki <img align="right" src="https://cdn.discordapp.com/attachments/975777323699818558/991315855969366096/d0be04222cd8acfdc6144fbbb41bc582.jpg" width="200" />
+#  Hello, my name is Reki <img align="right" src="https://cdn.discordapp.com/attachments/975777323699818558/991315855969366096/d0be04222cd8acfdc6144fbbb41bc582.jpg" width="200" />
 
 I'm **Reki**, An developer from somewhere in the earth. I like to code applications and games. I love backend and coffe.
 
