@@ -8,7 +8,7 @@ Welcome to my Github profile!
 - ⌨️ Learning new languages.
 
 ## Networks:
-[![Twitter Follow](https://img.shields.io/twitter/follow/r3kiii_?style=social)](https://twitter.com/r3kiii_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MotiDeev?style=social)](https://twitter.com/MotiDeev)
 ![GitHub followers](https://img.shields.io/github/followers/motidev?logo=Github&style=social)
 
 ## Skills: 
