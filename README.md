@@ -44,7 +44,7 @@ Bienvenido a mi perfil de GitHub!
 [![Microsoft Access](https://img.shields.io/badge/M._Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=303A40)]()
 
 
-## Estadísticas de GitHub: 
+## GitHub Stats: 
 [![Stats](https://github-readme-stats.vercel.app/api?username=motidev&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motidev)
 [![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motidev)
 
