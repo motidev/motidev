@@ -1,13 +1,13 @@
-#  Hello, my name is Moti <img align="right" src="https://cdn.discordapp.com/attachments/975777323699818558/991315855969366096/d0be04222cd8acfdc6144fbbb41bc582.jpg" width="200" />
+# Hola, mi nombre es Moti ♥️ 
 
 I'm **Moti**, An developer from somewhere in the earth. I like to code applications and games. I love backend and coffe.
 
-Welcome to my Github profile!
+Bienvenido a mi perfil de GitHub!
 
-- 🧑🏽‍💻 Coding for the new app: ████▒▒▒▒▒▒  30%
-- ⌨️ Learning new languages.
+- 💻 Convirtiendo la vida real en un videojuego.
+- 📗 Cada día aprendo algo nuevo sobre el mundo de la programación.
 
-## Networks:
+## Redes Sociales:
 [![Twitter Follow](https://img.shields.io/twitter/follow/MotiDeev?style=social)](https://twitter.com/MotiDeev)
 ![GitHub followers](https://img.shields.io/github/followers/motidev?logo=Github&style=social)
 
