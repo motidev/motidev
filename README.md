@@ -1,6 +1,6 @@
 # Hola, mi nombre es Moti ♥️ 
 
-I'm **Moti**, An developer from somewhere in the earth. I like to code applications and games. I love backend and coffe.
+Hola,Soy moti. Desarrollador de alguna parte del mundo. Me encanta desarrollar aplicaciones. Amo el cafe y me encantan el backend
 
 Bienvenido a mi perfil de GitHub!
 
