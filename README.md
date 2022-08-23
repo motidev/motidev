@@ -7,7 +7,7 @@ Bienvenido a mi perfil de GitHub!
 - 💻 Convirtiendo la vida real en un videojuego.
 - 📗 Cada día aprendo algo nuevo sobre el mundo de la programación.
 
-## Redes Sociales:
+## Networks
 [![Twitter Follow](https://img.shields.io/twitter/follow/MotiDeev?style=social)](https://twitter.com/MotiDeev)
 ![GitHub followers](https://img.shields.io/github/followers/motidev?logo=Github&style=social)
 
