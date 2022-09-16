@@ -8,8 +8,8 @@ Bienvenido a mi perfil de GitHub!
 - 📗 Cada día aprendo algo nuevo sobre el mundo de la programación.
 
 ## Networks
-[![Twitter Follow](https://img.shields.io/twitter/follow/MotiDeev?style=social)](https://twitter.com/MotiDeev)
-![GitHub followers](https://img.shields.io/github/followers/motidev?logo=Github&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mootilz?style=social)](https://twitter.com/mootilz)
+![GitHub followers](https://img.shields.io/github/followers/motilz?logo=Github&style=social)
 
 ## Skills
  <p align="left">
@@ -18,7 +18,7 @@ Bienvenido a mi perfil de GitHub!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
-      <img src="https://raw.githubusercontent.com/motidev/motidev/master/typescript.svg" />
+      <img src="https://raw.githubusercontent.com/motilz/motilz/master/typescript.svg" />
    </p>
 
 ## Tools
@@ -45,5 +45,5 @@ Bienvenido a mi perfil de GitHub!
 
 
 ## GitHub Stats: 
-[![Stats](https://github-readme-stats.vercel.app/api?username=motidev&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motidev)
-[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motidev)
+[![Stats](https://github-readme-stats.vercel.app/api?username=motilz&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motilz)
+[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motilz&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motilz)
