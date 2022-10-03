@@ -30,5 +30,5 @@ Bienvenido a mi perfil de GitHub!
 
 ## GitHub Stats: 
 [![Stats](https://github-readme-stats.vercel.app/api?username=motilz&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motilz)
-[![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motilz&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motilz)
+
 
