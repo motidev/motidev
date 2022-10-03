@@ -19,8 +19,7 @@ Bienvenido a mi perfil de GitHub!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
       <img src="https://raw.githubusercontent.com/motilz/motilz/master/typescript.svg" />
-      <img src="https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=303A40"/>
-      <img src="https://img.shields.io/badge/NPM-FB9200.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=303A40"/>     
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg"/>
 </p>
 
 ## Tools
@@ -32,3 +31,4 @@ Bienvenido a mi perfil de GitHub!
 ## GitHub Stats: 
 [![Stats](https://github-readme-stats.vercel.app/api?username=motilz&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motilz)
 [![TOP](https://github-readme-stats.vercel.app/api/top-langs/?username=motilz&langs_count=10&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Lenguajes%20m%C3%A1s%20usados)](https://github.com/motilz)
+
