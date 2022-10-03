@@ -5,7 +5,6 @@ Hola, soy moti. Desarrollador de alguna parte del planeta. Me encanta desarrolla
 Bienvenido a mi perfil de GitHub!
 
 - 💻 Convirtiendo la vida real en un videojuego.
-- 📗 Cada día aprendo algo nuevo sobre el mundo de la programación.
 
 ## Networks
 [![Twitter Follow](https://img.shields.io/twitter/follow/mootilz?style=social)](https://twitter.com/mootilz)
