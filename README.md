@@ -12,31 +12,22 @@ Bienvenido a mi perfil de GitHub!
 ![GitHub followers](https://img.shields.io/github/followers/motilz?logo=Github&style=social)
 
 ## Skills
- <p align="left">
+<p align="left">
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
       <img src="https://raw.githubusercontent.com/motilz/motilz/master/typescript.svg" />
-   </p>
+      <img src="https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=303A40"/>
+      <img src="https://img.shields.io/badge/NPM-FB9200.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=303A40"/>     
+</p>
 
 ## Tools
    <p align="left">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
    </p>
-  
-##  Frameworks and Others
-[![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=303A40)]()
-[![NPM](https://img.shields.io/badge/NPM-FB9200.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=303A40)]()
-
-
-##  Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=303A40)]()
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=303A40)]()
 
 ## GitHub Stats: 
 [![Stats](https://github-readme-stats.vercel.app/api?username=motilz&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motilz)
