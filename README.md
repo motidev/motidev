@@ -18,7 +18,7 @@ Bienvenido a mi perfil de GitHub!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" />
-      <img src="https://raw.githubusercontent.com/kodiexp/kodiexp/typescript.svg" />
+      <img src="https://raw.githubusercontent.com/kodiexp/kodiexp/master/typescript.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg"/>
 </p>
 
