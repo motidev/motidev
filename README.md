@@ -1,6 +1,6 @@
-# Hola, mi nombre es Moti ♥️ 
+# Hola, mi nombre es Kodi ♥️ 
 
-Hola, soy moti. Desarrollador de alguna parte del planeta. Me encanta desarrollar aplicaciones. Amante del cafe y del backend 
+Hola, soy kodi. Desarrollador de alguna parte del planeta. Me encanta desarrollar aplicaciones. Amante del cafe y del backend 
 
 Bienvenido a mi perfil de GitHub!
 
