@@ -8,8 +8,8 @@ Bienvenido a mi perfil de GitHub!
 - 📗 Cada día aprendo algo nuevo sobre el mundo de la programación.
 
 ## Networks
-[![Twitter Follow](https://img.shields.io/twitter/follow/mootilz?style=social)](https://twitter.com/mootilz)
-![GitHub followers](https://img.shields.io/github/followers/motilz?logo=Github&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kodiexp?style=social)](https://twitter.com/kodiexp)
+![GitHub followers](https://img.shields.io/github/followers/kodiexp?logo=Github&style=social)
 
 ## Skills
 <p align="left">
@@ -18,7 +18,7 @@ Bienvenido a mi perfil de GitHub!
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" />
-      <img src="https://raw.githubusercontent.com/motilz/motilz/master/typescript.svg" />
+      <img src="https://raw.githubusercontent.com/kodiexp/kodiexp/master/typescript.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg"/>
 </p>
 
@@ -29,6 +29,6 @@ Bienvenido a mi perfil de GitHub!
    </p>
 
 ## GitHub Stats: 
-[![Stats](https://github-readme-stats.vercel.app/api?username=motilz&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/motilz)
+[![Stats](https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/kodiexp)
 
 
