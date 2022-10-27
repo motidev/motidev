@@ -15,9 +15,10 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <br>
 <h2 align='center'>About me</h2>
 
-- hola
-- hoola
-- kaod
+- Frontend Developer.Passionate about JavaScript, React, Node.js and Next.
+- Coffee lover.
+- Turning real life into a video game.
+- Enter to my server [Discord](https://discord.gg/MkTvbu9gva)
 
 <h2 align='center'>Skills</h2>
 <p align='center'>
