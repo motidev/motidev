@@ -9,7 +9,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <h2>Networks 🌐</h2> 
 <p align='left'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
-    <a href='https://github.com/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/github.png' height='42px' /></a>
+    <a target='_blank' href='https://github.com/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/github.png' height='42px' /></a>
     <a href='https://www.twitch.tv/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/t.png' height='42px' /></a>
     <a href='https://twitter.com/Kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
@@ -33,5 +33,6 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <h2>Github Stats</h2>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/kodiexp)
+
 
 
