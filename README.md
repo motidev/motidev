@@ -18,8 +18,8 @@
 <h2 align='left'>About me</h2>
 
 - 💻 Frontend Developer.
-- ☕ Coffee lover [**Invite me to a coffee**]().
 - 💜 Passionate about web technologies like JavaScript, React, Next...
+- ☕ Coffee lover [**Invite me to a coffee**]().
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
 
