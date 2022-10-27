@@ -15,11 +15,14 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <br>
 <h2 align='left'>About me</h2>
 
+<pre>
 - 💻 Frontend Developer.
 - ☕ Coffee lover [**Invite me to a coffee**]().
 - 💜 Passionate about web technologies like JavaScript, React, Next...
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
+</pre>
+
 
 <h2 align='left'>Skills</h2>
 <p align='left'>
