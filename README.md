@@ -1,4 +1,4 @@
-<img align='left' src='https://github.com/kodiexp/kodiexp/blob/main/img/leftmario.gif' width='20%'>  
+<img align='left' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 <img align='right' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 
 <h2>Welcome to my Github profile! ♥️</h2> 
@@ -36,5 +36,6 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <h2>Github Stats 📊</h2>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/kodiexp)
+
 
 
