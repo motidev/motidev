@@ -3,7 +3,7 @@
 
 <h2 align='center'>Welcome to my Github profile! ♥️</h2> 
 <p align='center'>
-    Hi, I'm Kodi. Developer from some part of the planet. I love developing webs.
+     I'm Kodi. Developer from some part of the planet. I love developing webs.
 </p
 <br>
 
