@@ -5,3 +5,5 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 - ☕ Coffe lover
 - 📗 Fullstack Developer
 - 💻 Turning real life into a video game.
+
+<h2>Networks 🌐</h2> 
