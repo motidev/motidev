@@ -3,7 +3,13 @@
 <h2 align='left'>Welcome to my Github profile! ♥️</h2> 
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
+
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <p align='left'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
@@ -12,7 +18,6 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
     <a href='https://twitter.com/Kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
 
-<br>
 <h2 align='left'>About me</h2>
 
 - 💻 Frontend Developer.
