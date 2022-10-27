@@ -1,13 +1,13 @@
-<h2 align='center'>Welcome to my Github profile! ♥️</h2> 
+<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
+<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
+
+<h2>Welcome to my Github profile! ♥️</h2> 
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
 
-<p align='center'>
 - ☕ Coffe lover
 - 📗 Fullstack Developer
 - 💻 Turning real life into a video game.
-</p>
-
 
 <h2 align='center'>Networks 🌐</h2> 
 <p align='center'>
