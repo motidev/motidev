@@ -2,9 +2,6 @@
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
 
-<p align='center'>
 ☕ Coffe lover
-
+📗 Fullstack Developer
 💻 Turning real life into a video game.
-</p>
-
