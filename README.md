@@ -14,8 +14,8 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
     <a href='https://twitter.com/Kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
 
-<h2>Skills</h2>
-<p align='left'>
+<h2 align='center'>Skills</h2>
+<p align='center'>
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/cloudflare.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/css.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/git.png' height='42px' />
@@ -33,6 +33,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <h2>Github Stats</h2>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas)](https://github.com/kodiexp)
+
 
 
 
