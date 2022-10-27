@@ -5,15 +5,15 @@
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
 
-<br>
-<h2 align='center'>About me</h2>
-
 <p align='center'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
     <a target='_blank' href='https://github.com/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/github.png' height='42px' /></a>
     <a href='https://www.twitch.tv/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/t.png' height='42px' /></a>
     <a href='https://twitter.com/Kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
+
+<br>
+<h2 align='center'>About me</h2>
 
 <h2 align='center'>Skills</h2>
 <p align='center'>
