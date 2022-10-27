@@ -24,13 +24,19 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/javascript.jpg' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mongo.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mysql.png' height='42px' />
+    <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mariadb.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/nextjs.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/node.webp' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/react.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/typescript.png' height='42px' />
+    <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/php.png' height='42px' />
+    <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/power.png' height='42px' />
+    <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/bash.png' height='42px' />
+    <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/debian.webp' height='42px' />
 </p>
 
-<h2 align="center">Github Stats 📊</h2>
+<h2 align="center">Github Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas" alt="">
 </p>
+
