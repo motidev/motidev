@@ -15,7 +15,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <br>
 <h2 align='left'>About me</h2>
 
-<pre>
+<pre align='center'>
 - 💻 Frontend Developer.
 - ☕ Coffee lover [**Invite me to a coffee**]().
 - 💜 Passionate about web technologies like JavaScript, React, Next...
