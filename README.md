@@ -1,13 +1,13 @@
 <img align='left' src='https://github.com/kodiexp/kodiexp/blob/main/img/maio.gif' width='20%'>  
 <img align='right' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 
-<h2 align='left'>Welcome to my Github profile! ♥️</h2> 
+<h2 align='center'>Welcome to my Github profile! ♥️</h2> 
 
 Hi, I'm **Kodi**. Developer from some part of the planet. I love developing webs. 
 
 <br>
 
-<p align='left'>
+<p align='center'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
     <a target='_blank' href='https://github.com/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/github.png' height='42px' /></a>
     <a href='https://www.twitch.tv/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/t.png' height='42px' /></a>
