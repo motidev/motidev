@@ -4,6 +4,7 @@
 <h2>Welcome to my Github profile! ♥️</h2> 
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
+
 <br>
 <p align='center'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
