@@ -16,7 +16,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 <h2 align='center'>About me</h2>
 
 - 💻 Frontend Developer.
-- ☕ Coffee lover. [**Invite me to a coffee**]()
+- ☕ Coffee lover [**Invite me to a coffee**]().
 - 💜 Passionate about web technologies like JavaScript, React, Next...
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
