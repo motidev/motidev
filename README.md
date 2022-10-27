@@ -13,7 +13,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 </p>
 
 <br>
-<h2 align='center'>About me</h2>
+<h2 align='left'>About me</h2>
 
 - 💻 Frontend Developer.
 - ☕ Coffee lover [**Invite me to a coffee**]().
@@ -21,8 +21,8 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
 
-<h2 align='center'>Skills</h2>
-<p align='center'>
+<h2 align='left'>Skills</h2>
+<p align='left'>
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/cloudflare.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/css.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/git.png' height='42px' />
@@ -42,8 +42,8 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/debian.webp' height='42px' />
 </p>
 
-<h2 align="center">Github Stats</h2>
-<p align="center">
+<h2 align="left">Github Stats</h2>
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=kodiexp&count_private=true&include_all_commits=true&show_icons=truecount_private=true&layout=compact&theme=dark&hide_border=true&bg_color=1a1c1f&border_radius=10&custom_title=Estad%C3%ADsticas" alt="">
 </p>
 
