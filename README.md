@@ -1,3 +1,4 @@
+<img align='left' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 <img align='right' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 
 <h2 align='left'>Welcome to my Github profile! ♥️</h2> 
