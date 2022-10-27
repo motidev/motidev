@@ -2,9 +2,9 @@
 <img align='right' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 
 <h2 align='center'>Welcome to my Github profile! ♥️</h2> 
-
-Hi, I'm **Kodi**. Developer from some part of the planet. I love developing webs. 
-
+<p align='center'>
+    Hi, I'm **Kodi**. Developer from some part of the planet. I love developing webs.
+</p
 <br>
 
 <p align='center'>
