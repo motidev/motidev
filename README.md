@@ -2,7 +2,7 @@
 
 <h2 align='left'>Welcome to my Github profile! ♥️</h2> 
 
-Hi, I'm **Kodi**. Developer from some part of the planet. I love developing applications. 
+Hi, I'm **Kodi**. Developer from some part of the planet. I love developing webs. 
 
 <br>
 
