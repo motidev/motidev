@@ -17,6 +17,7 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 
 - 💻 Frontend Developer.
 - ☕ Coffee lover.
+- 💜 Passionate about web technologies like JavaScript, React, Next...
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [Discord](https://discord.gg/MkTvbu9gva)
 
