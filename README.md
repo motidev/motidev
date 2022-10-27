@@ -1,7 +1,7 @@
 <img align='left' src='https://github.com/kodiexp/kodiexp/blob/main/img/maio.gif' width='20%'>  
 <img align='right' src='https://github.com/kodiexp/kodiexp/blob/main/img/right%20mario.gif' width='20%'>  
 
-<h2>Welcome to my Github profile! ♥️</h2> 
+<h2 align='center'>Welcome to my Github profile! ♥️</h2> 
 
 Hi, I'm Kodi. Developer from some part of the planet. I love developing applications. 
 
