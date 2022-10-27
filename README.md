@@ -14,6 +14,11 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 
 <br>
 <h2 align='center'>About me</h2>
+<p>
+    - hola
+    - hola
+
+</p>
 
 <h2 align='center'>Skills</h2>
 <p align='center'>
