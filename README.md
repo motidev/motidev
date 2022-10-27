@@ -7,8 +7,6 @@ Hi, I'm Kodi. Developer from some part of the planet. I love developing applicat
 
  ☕ Coffe lover {} 📗 Fullstack Developer {} 💻 Turning real life into a video game.
  
-<br><br>
-<h2 align='center'>Networks</h2> 
 <p align='center'>
     <a href='https://discord.com/users/972840062209376306'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/discord.png' height='42px' /></a>
     <a target='_blank' href='https://github.com/kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/github.png' height='42px' /></a>
