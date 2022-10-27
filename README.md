@@ -14,7 +14,7 @@
     <a href='https://twitter.com/Kodiexp'><img src='https://github.com/kodiexp/kodiexp/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
 
-<br><br>
+<br>
 <h2 align='left'>About me</h2>
 
 - 💻 Frontend Developer.
