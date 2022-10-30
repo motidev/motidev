@@ -19,7 +19,7 @@
 
 - 💻 Frontend Developer.
 - 💜 Passionate about web technologies like JavaScript, React, Next...
-- ☕ Coffee lover [**Invite me to a coffee**]().
+- ☕ Coffee lover [**Invite me to a coffee**](https://www.buymeacoffee.com/kodiexp).
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
 
