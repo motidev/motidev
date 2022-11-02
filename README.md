@@ -36,29 +36,14 @@
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/java.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/javascript.jpg' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/typescript.png' height='42px' />
-
-
-
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/nextjs.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/node.webp' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/react.png' height='42px' />
-    
-
-
-
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mongo.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mysql.png' height='42px' />
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/mariadb.png' height='42px' />
-
-
-
     <img src='https://github.com/kodiexp/kodiexp/blob/main/skills/git.png' height='42px' />
-
 </p>
-
-
-  
-
 
 <h2 align="left">Github Stats</h2>
 <p align="left">
