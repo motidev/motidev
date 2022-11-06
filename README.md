@@ -17,7 +17,7 @@
 <br>
 <h2 align='left'>About me</h2>
 
-- 💻 Web Developer.
+- 💻 Web Developer student.
 - 💜 Passionate about web technologies like JavaScript, React, Next...
 - ☕ Coffee lover [**Invite me to a coffee**](https://www.buymeacoffee.com/kodiexp).
 - 🎮 Turning real life into a video game.
