@@ -18,7 +18,6 @@
 <h2 align='left'>About me</h2>
 
 - 💻 Web Developer student.
-- 💜 Passionate about web technologies like JavaScript, React, Next...
 - ☕ Coffee lover [**Invite me to a coffee**](https://discord.gg/MkTvbu9gva).
 - 🎮 Turning real life into a video game.
 - 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
