@@ -20,7 +20,6 @@
 - 💻 Web Developer student.
 - ☕ Coffee lover [**Invite me to a coffee**](https://discord.gg/MkTvbu9gva).
 - 🎮 Turning real life into a video game.
-- 🏷️ Enter to my server [**Discord**](https://discord.gg/MkTvbu9gva).
 
 
 <h2 align='left'>Skills</h2>
