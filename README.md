@@ -3,7 +3,7 @@
 
 <h2 align='center'>Welcome to my Github profile! ♥️</h2> 
 <p align='center'>
-     I'm Moti. Developer from some part of the planet. I love developing webs.
+     I'm Moti. Developer from some part of the planet. I love backend.
 </p
 <br>
 
