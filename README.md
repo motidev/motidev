@@ -18,7 +18,7 @@
 <h2 align='left'>About me</h2>
 
 - 💻 Web Developer student.
-- ☕ Coffee lover [**Invite me to a coffee**](https://discord.gg/MkTvbu9gva).
+- ☕ Coffee lover [**Invite me to a coffee**](https:/motidev.com).
 - 🎮 Turning real life into a video game.
 
 
