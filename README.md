@@ -27,10 +27,6 @@
     <img src='https://github.com/motidev/motidev/blob/main/skills/css.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/html.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/t.png' height='42px' />
-    <img src='https://github.com/motidev/motidev/blob/main/skills/php.png' height='42px' />
-    <img src='https://github.com/motidev/motidev/blob/main/skills/power.png' height='42px' />
-    <img src='https://github.com/motidev/motidev/blob/main/skills/bash.png' height='42px' />
-    <img src='https://github.com/motidev/motidev/blob/main/skills/debian.webp' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/java.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/javascript.jpg' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/typescript.png' height='42px' />
@@ -39,7 +35,6 @@
     <img src='https://github.com/motidev/motidev/blob/main/skills/react.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/mongo.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/mysql.png' height='42px' />
-    <img src='https://github.com/motidev/motidev/blob/main/skills/mariadb.png' height='42px' />
     <img src='https://github.com/motidev/motidev/blob/main/skills/git.png' height='42px' />
 </p>
 
