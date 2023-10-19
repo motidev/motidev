@@ -82,7 +82,7 @@
     </td>
        <td align="center" width="100">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=Html" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=html" alt="Nodejs" />
       </a>
       <br>Html
     </td>
