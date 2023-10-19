@@ -60,14 +60,14 @@
       </a>
       <br>Tailwind
     </td>
-          </tr>
-     <tr>
-    <td align="center" width="100">
+         <td align="center" width="100">
       <a href="https://dev.java/learn/">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
       </a>
       <br>Java
     </td>
+          </tr>
+     <tr>
     <td align="center" width="100">
       <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" />
