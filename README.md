@@ -16,7 +16,7 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&count_private=false&include_all_commits=true&show_icons=truecount_private=true&hide_border=true&line_height=20">
+    <img src="https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&count_private=false&include_all_commits=true&show_icons=truecount_private=true&hide_border=true&layout=compact&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=blueberry&count_private=true&hide_border=true">
 </details>
 
