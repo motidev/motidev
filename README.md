@@ -21,7 +21,7 @@
 - ☕ Coffee lover [**Invite me to a coffee**](https://motidev.com/coffe).
 - 🎮 Turning real life into a video game.
 
-# Skills
+## Skills
 <table>
   <tr>
     <td align="center" width="100">
