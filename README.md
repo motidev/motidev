@@ -58,7 +58,7 @@
       <a href="">
         <img src="https://skillicons.dev/icons?i=lua" alt="Nodejs" />
       </a>
-      <br>Tailwind
+      <br>Lua
     </td>
          <td align="center" width="100">
       <a href="https://dev.java/learn/">
