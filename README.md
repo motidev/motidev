@@ -60,6 +60,8 @@
       </a>
       <br>Tailwind
     </td>
+          </tr>
+     <tr>
     <td align="center" width="100">
       <a href="https://dev.java/learn/">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" />
