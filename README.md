@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Moti (he/they)** - I'm a fullstack developer, moderator, and student from some part of the planet. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!.☕️ Coffee lover [**Invite me to a coffee**](https://motidev.com/coffe).
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,tailwind,lua,java,mysql,mongodb,nginx,git,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,tailwind,lua,java,mysql,mongodb,nginx,git,figma)](https://motidev.com)<br/>
 
 <details>
 <summary>Contact me</summary>
@@ -16,6 +16,6 @@
 <details>
   <summary>Github Stats ⚡</summary>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 </details>
 
