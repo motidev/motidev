@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Moti (he/they)** - I'm a fullstack developer, moderator, and student from some part of the panelt. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!.☕️ Coffee lover [**Invite me to a coffee**](https://motidev.com/coffe).
+**I'm Moti (he/they)** - I'm a fullstack developer, moderator, and student from some part of the planet. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!.☕️ Coffee lover [**Invite me to a coffee**](https://motidev.com/coffe).
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,reactjs,nextjs,tailwind,lua,java,mysql,mongodb,nginx,git,figma)](https://skillicons.dev)<br/>
 
