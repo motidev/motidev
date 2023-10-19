@@ -21,9 +21,99 @@
 - ☕ Coffee lover [**Invite me to a coffee**](https://motidev.com/coffe).
 - 🎮 Turning real life into a video game.
 
+# Skills
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://es.react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="100">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="100"> 
+      <a href="https://www.mongodb.com/" >
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="100"> 
+      <a href="" >
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MongoDB" />
+      </a>
+      <br>Mysql
+    </td>
+      <td align="center" width="100">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+          <td align="center" width="100">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=lua" alt="Nodejs" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <a href="https://dev.java/learn/">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" />
+      </a>
+      <br>NodeJS
+    </td>
+     <td align="center" width="100">
+      <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" alt="Nodejs" />
+      </a>
+      <br>JavaScript
+    </td>
+       <td align="center" width="100">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=Html" alt="Nodejs" />
+      </a>
+      <br>Html
+    </td>
+     </td>
+       <td align="center" width="100">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=css" alt="Nodejs" />
+      </a>
+      <br>CSS
+    </td>
+       <td align="center" width="100">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Nodejs" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="https://skillicons.dev/icons?i=git" alt="Nodejs" />
+      </a>
+      <br>Git
+    </td>
+        <td align="center" width="100">
+      <a href="https://www.nginx.com/">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
+      </a>
+      <br>Nginx
+    </td>
+  </tr>
+</table>
 
-<h2 align='left'>Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+---
+
 
 <h2 align="left">Github Stats</h2>
 <p align="left">
