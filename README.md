@@ -9,7 +9,6 @@
 <p align='center'>
     <a href='https://motidev.com/discord'><img src='https://github.com/motidev/motidev/blob/main/networks/discord.png' height='42px' /></a>
     <a target='_blank' href='https://github.com/motidev'><img src='https://github.com/motidev/motidev/blob/main/networks/github.png' height='42px' /></a>
-    <a href='https://www.twitch.tv/motidev'><img src='https://github.com/motidev/motidev/blob/main/networks/t.png' height='42px' /></a>
     <a href='https://twitter.com/motidev'><img src='https://github.com/motidev/motidev/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
 </details>
