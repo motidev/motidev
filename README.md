@@ -12,8 +12,8 @@
     <a href='https://twitter.com/motidev'><img src='https://github.com/motidev/motidev/blob/main/networks/twitter.png' height='42px' /></a>
 </p>
 
-# 📊Github Stats
+# ⚙Tech Stack:
+a
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=blueberry&count_private=true&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&line_height=20">
-
 
