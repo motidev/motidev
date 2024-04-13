@@ -1,5 +1,14 @@
 # Hey There! 👋
-**I'm Moti** - I'm a fullstack developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!. Coffee lover ☕️.
+**I'm Moti** - I'm a fullstack developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!.
+
+# 🤺About Me
+
+- Currently, I am working on a Discord bot 🤖.
+- I am interested in collaborating on open-source projects 👨‍💻.
+- You can contact me in motidevcontact@gmail.com
+- Coffee lover ☕️.
+- I love playing video games 🎮.
+- I love cyberSecurity 🔐.
 
 # ⚙Tech Stack:
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,nuxt,tailwind,java,jquery,php,mysql,mongodb,git,figma)](https://motidev.com)<br/>
