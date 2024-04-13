@@ -11,7 +11,7 @@
 - I love cyberSecurity and technology 😍.
 
 # ⚙Tech Stack:
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,nuxt,tailwind,boostrap,java,jquery,php,mysql,mongodb,git,figmam,markdown,ngnix)](https://motidev.com)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,nuxt,tailwind,bootstrap,java,jquery,php,mysql,mongodb,git,figmam,markdown,nginx)](https://motidev.com)<br/>
 
 # 📊Github Stats:
 <div>
