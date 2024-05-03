@@ -3,12 +3,12 @@
 
 # 🤺About Me
 
-- Currently, I am working on a Discord bot 🤖.
-- I am interested in collaborating on open-source projects 👨‍💻.
-- You can contact me in motidevcontact@gmail.com 📩.
-- Coffee lover ☕️.
-- I love playing video games 🎮.
-- I love cyberSecurity and technology 😍.
+- Currently, I am working on a Discord bot 🤖
+- I am interested in collaborating on open-source projects 👨‍💻
+- You can contact me in motidevcontact@gmail.com 📩
+- Coffee lover ☕️
+- I love playing video games 🎮
+- I love cyberSecurity and technology 😍
 
 # ⚙Tech Stack:
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,bootstrap,java,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
