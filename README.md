@@ -5,7 +5,6 @@
 
 - Currently, I am working on a Discord bot 🤖
 - I am interested in collaborating on open-source projects 👨‍💻
-- You can contact me in motidevcontact@gmail.com 📩
 - Coffee lover ☕️
 - I love playing video games 🎮
 - I love cyberSecurity and technology 😍
