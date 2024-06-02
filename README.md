@@ -12,8 +12,4 @@
 # ⚙Tech Stack:
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,bootstrap,java,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
 
-# 📊Github Stats:
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true">
-</div>
+
