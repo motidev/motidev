@@ -14,6 +14,6 @@
 
 # 📊Github Stats:
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&theme=blueberry&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=motidev&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true">
 </div>
