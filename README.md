@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Moti** a fullstack developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!
+**I'm Moti** a developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!
 
 # 🤺About Me
 
