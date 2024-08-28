@@ -8,6 +8,9 @@
 - Coffee lover ☕️
 - I love playing video games 🎮
 - I love cyberSecurity and technology 😍
+- Actual projects: 
+  - Syrax Discord Bot -> [Test here](https://motidev.com/discord)
+  - SnipCode -> [Test here](https://snipcode.motidev.com)
 
 # ⚙Tech Stack:
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,bootstrap,java,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
