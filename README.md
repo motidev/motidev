@@ -3,7 +3,6 @@
 
 # 🤺About Me
 
-- Currently, I am working on a Discord bot 🤖
 - I am interested in collaborating on open-source projects 👨‍💻
 - Coffee lover ☕️
 - I love playing video games 🎮
