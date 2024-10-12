@@ -13,7 +13,7 @@
   - SnipCode -> [Test here](https://snipcode.motidev.com)
 
 # ⚙Tech Stack:
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,bootstrap,java,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,bootstrap,java,kotlin,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
 
 # 📊Github Stats:
 <div align=center>
