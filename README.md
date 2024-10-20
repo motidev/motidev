@@ -6,7 +6,7 @@
 - I am interested in collaborating on open-source projects 👨‍💻
 - Coffee lover ☕️
 - I love playing video games 🎮
-- I love kotlin and typescript
+- I love kotlin and typescript/javascript
 - I love cyberSecurity and technology 😍
 - Actual projects: 
   - Music Project -> Syrax Discord Bot -> [Test here](https://motidev.com/discord)
