@@ -1,7 +1,7 @@
 ## Hey There! 👋
 **I'm Moti** a developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!
 
-##🤺About Me
+## About Me
 
 - I am interested in collaborating on open-source projects 👨‍💻
 - Coffee lover ☕️
@@ -13,7 +13,7 @@
   - Syrax a Twitch Bot for giveaways -> [Test here](https://motidev.com/discord)
   - SnipCode -> [Test here](https://snipcode.motidev.com)
 
-## ⚙Tech Stack:
+## Skills
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,angular,tailwind,bootstrap,java,kotlin,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
 
 ## Github Stats ⚡
