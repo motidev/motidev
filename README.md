@@ -9,7 +9,7 @@
 - I love kotlin and typescript/javascript
 - I love cyberSecurity and technology 😍
 - Actual projects: 
-  - Music Project -> Syrax Discord Bot -> [Test here](https://motidev.com/discord)
+  - Giveaway Project -> Syrax Discord Bot -> [Test here](https://motidev.com/discord)
   - Syrax a Twitch Bot for giveaways -> [Test here](https://motidev.com/discord)
   - SnipCode -> [Test here](https://snipcode.motidev.com)
 
