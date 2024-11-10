@@ -14,7 +14,7 @@
   - SnipCode -> [Test here](https://snipcode-theta.vercel.app/)
 
 ## Skills
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,angular,tailwind,bootstrap,java,kotlin,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,angular,tailwind,bootstrap,java,kotlin,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
 
 ## Github Stats ⚡
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=motidev&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
