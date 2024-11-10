@@ -11,7 +11,7 @@
 - Actual projects: 
   - Giveaway Project -> Syrax Discord Bot -> [Test here](https://motidev.com/discord)
   - Syrax a Twitch Bot for giveaways -> [Test here](https://motidev.com/discord)
-  - SnipCode -> [Test here](https://snipcode.motidev.com](https://snipcode-theta.vercel.app/)
+  - SnipCode -> [Test here](https://snipcode-theta.vercel.app/)
 
 ## Skills
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,angular,tailwind,bootstrap,java,kotlin,rust,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
