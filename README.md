@@ -9,8 +9,8 @@
 - I love kotlin and typescript/javascript
 - I love cyberSecurity and technology 😍
 - Actual projects: 
-  - Giveaway Project -> Syrax Discord Bot -> [Test here](https://motidev.com/discord)
-  - Syrax a Twitch Bot for giveaways -> [Test here](https://motidev.com/discord)
+  - Giveaway Project -> Syrax Discord Bot -> [Test here](https://discord.gg/Nc69ZEudTD)
+  - Syrax a Twitch Bot for giveaways -> [Test here](https://discord.gg/Nc69ZEudTD)
   - SnipCode -> [Test here](https://snipcode-theta.vercel.app/)
 
 ## Skills
