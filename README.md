@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=motidev&color=7C3138&style=flat-square) 
+
 ## Hey There! 👋
 **I'm Moti** a developer from some part of the planet. I'm interested in open-source and web development. I work on random projects in my free time!
 
