@@ -19,5 +19,5 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,php,css,nodejs,react,next,angular,tailwind,bootstrap,java,kotlin,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
 
 ## Github Stats ⚡
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=motidev&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=motidev&theme=transparent&count_private=true&hide_border=true&bg_color=1c1c1c&text_color=ffffff&title_color=c3002f&icon_color=c3002f&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
