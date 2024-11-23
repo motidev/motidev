@@ -19,7 +19,7 @@
     * Twitch Bot -> [Test here](https://discord.gg/Nc69ZEudTD)
       
   * 🌍 **Open Source Projects:**
-    * SnipCode -> [Test here](https://snipcode-theta.vercel.app/)
+    * SnipCode -> [Test here](https://snipcode-theta.vercel.app/codeeditor)
       
 * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
   
