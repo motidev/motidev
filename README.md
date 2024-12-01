@@ -26,7 +26,7 @@
 ---
 
 ### 💻 Tech Stack
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,php,css,nodejs,react,next,tailwind,bootstrap,java,net,mysql,mongodb,git,markdown,nginx,docker,c#)](https://motidev.com)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,php,java,net,css,nodejs,react,next,tailwind,bootstrap,mysql,mongodb)](https://motidev.com)<br/>
 
 ---
 
