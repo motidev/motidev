@@ -31,7 +31,7 @@
 ---
 
 ### 🧾 Github Statistics
-These are some statistics from my github account.
+These are some statistics from my github.
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=motidev&theme=transparent&count_private=true&hide_border=true&bg_color=1c1c1c&text_color=ffffff&title_color=c3002f&icon_color=c3002f&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motidev&layout=compact&theme=transparent&count_private=true&bg_color=1c1c1c&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_border=true)</a>
