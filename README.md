@@ -8,7 +8,7 @@
 - I am interested in collaborating on open-source projects 👨‍💻
 - Coffee lover ☕️
 - I love playing video games 🎮
-- I love kotlin and typescript/javascript
+- I love C# and typescript
 - I love cyberSecurity and technology 😍
 
 ---
