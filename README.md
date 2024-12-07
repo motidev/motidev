@@ -16,7 +16,7 @@
 ### 👨‍💻 What I do
   * 💼 **I'm working on:**
     * Discord Bot -> [Test here](https://motidev.xyx/discord)
-    * Twitch Bot -> [Test here](https://motidev.xyx/discord)
+    * Twitch Bot (in development) -> [Test here](https://motidev.xyx/discord)
       
   * 🌍 **Open Source Projects:**
     * SnipCode -> [Test here](https://snipcode-theta.vercel.app/codeeditor)
