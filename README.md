@@ -19,9 +19,6 @@
     * Kuiro UI Tailwind & Boostrap Components -> [Kuiro UI](https://ui.kuiro.pro/)
     * Kuiro my new startup -> [Kuiro](https://kuiro.pro/)
       
-  * 🌍 **Open Source Projects:**
-    * SnipCode -> [Test here](https://snipcode-theta.vercel.app/codeeditor)
-      
 * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
   
 ---
