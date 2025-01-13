@@ -15,7 +15,7 @@
 
 ### 👨‍💻 What I do
   * 💼 **I'm working on:**
-    * Discord Bot -> [Test here](https://motidev.xyx/discord)
+    * Kuiro Discord Bot -> [Test here](https://motidev.xyx/discord)
     * Kuiro UI Tailwind & Boostrap Components -> [Kuiro UI](https://ui.kuiro.pro/)
     * Kuiro my new startup -> [Kuiro](https://kuiro.pro/)
       
