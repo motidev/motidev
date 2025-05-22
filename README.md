@@ -15,8 +15,8 @@
 
 ### 👨‍💻 What I do
   * 💼 **I'm working on:**
-    * Kuiro Discord Bot -> [Test here](https://motidev.xyx/discord)
-    * Kuiro UI Tailwind & Boostrap Components -> [Kuiro UI](https://ui.kuiro.pro/)
+    * Kiuro Moderation Discord Bot -> [Support](https://discord.gg/GM78wXgqgh)
+    * Kiuro Music Discord Bot -> [Support](https://discord.gg/GM78wXgqgh)
     * Kuiro my new startup -> [Kuiro](https://kuiro.pro/)
       
  * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
