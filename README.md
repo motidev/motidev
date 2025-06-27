@@ -15,9 +15,7 @@
 
 ### 👨‍💻 What I do
   * 💼 **I'm working on:**
-    * Kiuro Moderation Discord Bot -> [Support](https://discord.gg/GM78wXgqgh)
-    * Kiuro Music Discord Bot -> [Support](https://discord.gg/GM78wXgqgh)
-    * Kuiro my new startup -> [Kuiro](https://kuiro.pro/)
+    * Kuiro -> [Kuiro](https://kuiro.pro/)
       
  * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
   
