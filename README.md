@@ -16,7 +16,7 @@
 ### 👨‍💻 What I do
   * 💼 **I'm working on:**
     * Kuiro -> [Kuiro](https://github.com/kuiroo)
-    * Revel Lab -> [Revel Lab](https://github.com/revellab)
+    * Revellab -> [Revellab](https://github.com/revellab)
       
  * 😄 **Fun fact** - Only half of programming is coding. The other 90% is debugging.
   
